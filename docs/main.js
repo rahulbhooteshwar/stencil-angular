@@ -216,7 +216,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\dev\POCs\stencil-angular\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! c:\dev\POCs\stencil-angular\src\main.ts */"./src/main.ts");
 
 
 /***/ })
